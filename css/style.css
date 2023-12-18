@@ -29,7 +29,7 @@ body {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .image-perfume {
-  background-image: url(../images/image-product-desktop.jpg);
+  background-image: url("../images/image-product-desktop.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position-y: 40%;
